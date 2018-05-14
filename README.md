@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://i.imgur.com/vRoxycP.png
+[logo]: https://i.imgur.com/vTQOfy5.png
 
 ## Thanks for trying out my autoexec! Hopefully you like it.
 
