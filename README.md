@@ -6,7 +6,7 @@
 
 ~FoxtrotPerry
 
-If you are here you probably came from some reddit post or something so you probably already know what you're getting wit this autoexec. In the rare case you found yourself here and dont know what this gives you, you can view a bind map by clicking [HERE.](bit.ly/FPexec)
+If you are here you probably came from some reddit post or something so you probably already know what you're getting wit this autoexec. In the rare case you found yourself here and dont know what this gives you, you can view a bind map by clicking [HERE.](https://bit.ly/FPexec)
 
 ---
 
@@ -21,4 +21,4 @@ Installation Steps:
 
 ---
 
-Note: You can view a diagram of all binds by going to [bit.ly/FPexec](bit.ly/FPexec)
+Note: You can view a diagram of all binds by going to [bit.ly/FPexec](https://bit.ly/FPexec)
