@@ -1,4 +1,4 @@
-Thanks for trying out my autoexec! Hopefully you like it.
+**Thanks for trying out my autoexec! Hopefully you like it.**
 
 ~FoxtrotPerry
 
