@@ -21,4 +21,4 @@ Installation Steps:
 
 ---
 
-Note: You can view a diagram of all binds by going to bit.ly/FPexec
+Note: You can view a diagram of all binds by going to [bit.ly/FPexec](bit.ly/FPexec)
