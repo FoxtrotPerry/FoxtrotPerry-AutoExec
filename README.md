@@ -42,7 +42,7 @@ First Installation Steps:
 3. Launch CS:GO
 4. Read the genetrated text and tables, enjoy!
 
-__Note: If you don't see the generated text for whatever reason and you are sure the folder is in the correct spot,  just use the command `exec FP-AutoExec\autoexec`.
+*Note*: If you don't see the generated text for whatever reason and you are sure the folder is in the correct spot,  just use the command `exec FP-AutoExec\autoexec`.
 
 ---
 
