@@ -36,7 +36,7 @@ If you are here you probably came from some reddit post or something so you prob
 
 First Installation Steps:
 
-1. Drag and drop the FP-AutoExec folder into your *"cfg"* folder.
+1. Drag and drop the *"FP-AutoExec"* folder into your *"cfg"* folder.
    (Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg)
 2. Add `+exec FP-AutoExec\autoexec` to your launch options.
 3. Launch CS:GO
