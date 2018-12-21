@@ -2,7 +2,7 @@
 
 [logo]: https://i.imgur.com/vTQOfy5.png
 
-# FoxtrotPerry Autoexec v5.0.1!
+# FoxtrotPerry Autoexec v5.0.2!
 
 ### Thanks for trying out my autoexec! Hopefully you like it.
 
@@ -34,7 +34,7 @@ If you are here you probably came from some reddit post or something so you prob
 
 ---
 
-First Installation Steps:
+## First Installation Steps:
 
 1. Drag and drop the *"FP-AutoExec"* folder into your *"cfg"* folder.
    (Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg)
