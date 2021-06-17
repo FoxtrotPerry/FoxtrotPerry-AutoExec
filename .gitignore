@@ -1,0 +1,9 @@
+# FP-AutoExec config gitignore
+
+# Ignoring all files found in the /cfg folder
+*.*
+!.gitignore
+
+# Ignoring all folders found in /cfg folder
+/survival
+/coop
