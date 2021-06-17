@@ -4,7 +4,7 @@
 
 # FoxtrotPerry Autoexec v5.0.2!
 
-### Thanks for trying out my autoexec! Hopefully you like it.
+### Thanks for trying out my autoexec! Hopefully you like it
 
 ~FoxtrotPerry
 
@@ -13,6 +13,7 @@ If you are here you probably came from some reddit post or something so you prob
 ---
 
 ## Notable Features:
+
 * **Modular Binds** - With the release of v5.0.1 I have *finally* integrated my idea for modular binds into every configurable section this autoexec has to offer. With modular binds, you get to pick and choose which keys and settings you want changed in your active config. Which means you can use parts of your config and parts of mine!
 
     * How to use: 
@@ -36,13 +37,13 @@ If you are here you probably came from some reddit post or something so you prob
 
 ## First Installation Steps:
 
-1. Drag and drop the *"FP-AutoExec"* folder into your *"cfg"* folder.
+1. Drag and drop the *"fp/"* folder into your *"cfg"* folder.
    (Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg)
-2. Add `+exec FP-AutoExec\autoexec` to your launch options.
+2. Add `+exec fp/autoexec` to your launch options.
 3. Launch CS:GO
 4. Read the genetrated text and tables, enjoy!
 
-*Note*: If you don't see the generated text for whatever reason and you are sure the folder is in the correct spot,  just use the command `exec FP-AutoExec\autoexec`.
+*Note*: If you don't see the generated text for whatever reason and you are sure the folder is in the correct spot,  just use the command `exec fp/autoexec`.
 
 ---
 

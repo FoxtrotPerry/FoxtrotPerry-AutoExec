@@ -1,8 +1,9 @@
 # FP-AutoExec config gitignore
 
-# Ignoring all files found in the /cfg folder
+# Ignoring all files found in the /cfg folder (except repo specific ones)
 *.*
 !.gitignore
+!README.md
 
 # Ignoring all folders found in /cfg folder
 /survival
